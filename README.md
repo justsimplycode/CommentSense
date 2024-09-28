@@ -28,8 +28,8 @@ Welcome to **CommentSense**, an intelligent comment categorization system design
 - **Framework:** [.NET](https://dotnet.microsoft.com/) - Core framework for building backend logic.
 - **Microservices:** [Azure Function Apps](https://azure.microsoft.com/en-us/services/functions/) - Enables serverless computing and scalable processing.
 - **Programming Language:** [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - Primary language for backend development.
-- **Database:** [SQL Server](https://www.microsoft.com/en-us/sql-server) - Manages persistent data storage.
-- **Monitoring:** [Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - Provides real-time system monitoring and logging.
+- **Database:** [Azure SQL Server](https://www.microsoft.com/en-us/sql-server) - Manages persistent data storage.
+- **Monitoring:** [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview) - Provides real-time system monitoring and logging.
 - **API Management:** [Azure APIM](https://azure.microsoft.com/en-us/services/api-management/) - Handles secure API gateway and reverse proxy.
 
 ## Getting Started
