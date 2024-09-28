@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommentCategorization", "CommentCategorization\CommentCategorization.csproj", "{3A8FCFBE-A10E-4496-8897-325E554B9CD2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericLibrary", "GenericLibrary1\GenericLibrary.csproj", "{AB20C375-6F41-472F-9065-ABB68B3DC584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericLibrary", "GenericLibrary\GenericLibrary.csproj", "{AB20C375-6F41-472F-9065-ABB68B3DC584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
