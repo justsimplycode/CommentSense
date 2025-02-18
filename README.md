@@ -5,10 +5,11 @@ CommentSense is an intelligent comment categorization system built on a microser
 
 ## Key Features:
 
-**Advanced Categorization:** Filters comments using structured tags for better organization and analysis.
-**Scalability & Performance:** Designed to handle large datasets efficiently.
-**Pagination Support:** Ensures seamless browsing and retrieval of comments in a structured manner.
-**PostCommentDetailsFromCSV:** Allows bulk uploading of comment data from CSV files, making integration and processing faster.
+- **Advanced Categorization:** Filters comments using structured tags for better organization and analysis.
+- **Scalability & Performance:** Designed to handle large datasets efficiently.
+- **Pagination Support:** Ensures seamless browsing and retrieval of comments in a structured manner.
+- **PostCommentDetailsFromCSV:** Allows bulk uploading of comment data from CSV files, making integration and processing faster.
+  
 This system provides a scalable, high-performance solution for businesses looking to gain deeper insights from customer feedback. 
 
 ## Other Features
