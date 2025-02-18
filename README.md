@@ -1,15 +1,18 @@
 # CommentSense
 
-## Overview
+## Welcome to CommentSense
+CommentSense is an intelligent comment categorization system built on a microservice architecture, designed for filtering and categorizing user comments efficiently. It processes and analyzes large volumes of feedback based on various criteria such as content, city, location, date, and interests using tags, making it easier to extract actionable insights.
 
-Welcome to **CommentSense**, an intelligent comment categorization system designed with a microservice architecture. This solution is engineered for filtering and categorizing user comments based on various criteria such as content, city, location, date, and interests using tags. It provides a scalable, efficient way to process and analyze large volumes of feedback, making it easier to extract valuable insights.
+## Key Features:
 
-## Features
+**Advanced Categorization:** Filters comments using structured tags for better organization and analysis.
+**Scalability & Performance:** Designed to handle large datasets efficiently.
+**Pagination Support:** Ensures seamless browsing and retrieval of comments in a structured manner.
+**PostCommentDetailsFromCSV:** Allows bulk uploading of comment data from CSV files, making integration and processing faster.
+This system provides a scalable, high-performance solution for businesses looking to gain deeper insights from customer feedback. 
 
-- **Advanced Comment Filtering:**
-  - Categorizes user comments based on tags, city, location, date, and other metadata.
-  - Streamlines data analysis by filtering feedback according to specified parameters.
-  
+## Other Features
+
 - **Microservice Architecture:**
   - Modular and scalable architecture, ensuring flexibility for future enhancements.
   - Efficient processing of comment data using Azure Function Apps.
